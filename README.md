@@ -1,8 +1,6 @@
 CUDA Path Tracer
 ================
 
-**University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 3**
-
 * Zixiao Wang
   * [LinkedIn](https://www.linkedin.com/in/zixiao-wang-826a5a255/)
 * Tested and rendered on: Windows 11, i7-12800H @ 2.40 GHz 32GB, GTX 3070TI (Laptop)
